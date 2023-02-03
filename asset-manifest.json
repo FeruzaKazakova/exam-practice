@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/exam-practice/static/css/main.d86f292b.css",
+    "main.js": "/exam-practice/static/js/main.3124c522.js",
+    "index.html": "/exam-practice/index.html",
+    "main.d86f292b.css.map": "/exam-practice/static/css/main.d86f292b.css.map",
+    "main.3124c522.js.map": "/exam-practice/static/js/main.3124c522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d86f292b.css",
+    "static/js/main.3124c522.js"
+  ]
+}
